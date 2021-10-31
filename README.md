@@ -6,6 +6,13 @@
 
 ---
 --->
+<!---
+[Watch video (YouTube)](https://youtu.be/~) | [View .pdf (GitHub)][05_blb] | [View Source Links][05_lnk]
+---
+<a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
+
+---
+--->
 [Watch video (YouTube)](https://youtu.be/HSlY1ryZIqQ) | [View .pdf (GitHub)][04_blb] | [Download .pdf (GitHub)][04_raw]
 ---
 <a href="https://youtu.be/HSlY1ryZIqQ"><img src="https://img.youtube.com/vi/HSlY1ryZIqQ/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
@@ -34,3 +41,5 @@
 [03_raw]: <https://github.com/v-las/pdf-presentations/raw/main/vlas_pres_03.pdf>
 [04_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_04.pdf>
 [04_raw]: <https://github.com/v-las/pdf-presentations/raw/main/vlas_pres_04.pdf>
+[05_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.pdf>
+[05_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.md>
