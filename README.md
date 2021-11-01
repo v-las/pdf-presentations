@@ -11,22 +11,22 @@
 <a href="https://youtu.be/krMhIWq9Q3E"><img src="https://img.youtube.com/vi/krMhIWq9Q3E/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
-[Видео (YouTube)](https://youtu.be/HSlY1ryZIqQ) | [Презентация .pdf (GitHub)][04_blb]
+[Видео + Ссылки (YouTube)](https://youtu.be/HSlY1ryZIqQ) | [Презентация .pdf (GitHub)][04_blb]
 ---
 <a href="https://youtu.be/HSlY1ryZIqQ"><img src="https://img.youtube.com/vi/HSlY1ryZIqQ/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
-[Видео (YouTube)](https://youtu.be/d-oARrPWlhk) | [Презентация .pdf (GitHub)][03_blb]
+[Видео + Ссылки (YouTube)](https://youtu.be/d-oARrPWlhk) | [Презентация .pdf (GitHub)][03_blb]
 ---
 <a href="https://youtu.be/d-oARrPWlhk"><img src="https://img.youtube.com/vi/d-oARrPWlhk/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
-[Видео (YouTube)](https://youtu.be/9rS_QANhGXQ) | [Презентация .pdf (GitHub)][02_blb]
+[Видео + Ссылки (YouTube)](https://youtu.be/9rS_QANhGXQ) | [Презентация .pdf (GitHub)][02_blb]
 ---
 <a href="https://youtu.be/9rS_QANhGXQ"><img src="https://img.youtube.com/vi/9rS_QANhGXQ/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
-[Видео (YouTube)](https://youtu.be/P_t3Dbd9S-o) | [Презентация .pdf (GitHub)][01_blb]
+[Видео + Ссылки (YouTube)](https://youtu.be/P_t3Dbd9S-o) | [Презентация .pdf (GitHub)][01_blb]
 ---
 <a href="https://youtu.be/P_t3Dbd9S-o"><img src="https://img.youtube.com/vi/P_t3Dbd9S-o/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
