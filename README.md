@@ -1,11 +1,16 @@
 # Список презентаций
 <!---
-[Watch video (YouTube)](https://youtu.be/~) | [View .pdf (GitHub)][~_blb] | [Download .pdf (GitHub)][~_raw]
+[Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
 --->
+[Видео + Ссылки (YouTube)](https://youtu.be/X1GIVJ0zUS8) | [Презентация (GitHub)][06_blb]
+---
+<a href="https://youtu.be/X1GIVJ0zUS8"><img src="https://img.youtube.com/vi/X1GIVJ0zUS8/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
+
+---
 [Видео (YouTube)](https://youtu.be/krMhIWq9Q3E) | [Презентация (GitHub)][05_blb] | [Ссылки (GitHub)][05_lnk]
 ---
 <a href="https://youtu.be/krMhIWq9Q3E"><img src="https://img.youtube.com/vi/krMhIWq9Q3E/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
@@ -37,3 +42,4 @@
 [04_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_04.pdf>
 [05_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.pdf>
 [05_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.md>
+[06_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_06.pdf>
