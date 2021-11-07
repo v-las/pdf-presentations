@@ -1,6 +1,6 @@
 # Список презентаций
 <!---
-[Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb]
+[Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb] | [Ссылки (GitHub)][~_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
