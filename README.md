@@ -4,6 +4,21 @@
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 --- -->
+<!-- Минимально жизнеспособный продукт (MVP) | Презентация
+
+Мой GitHub - https://github.com/v-las
+Презентация "Стратегия MVP - Minimum Viable Product". Подготовлена Власом Мастыкашем, для открытого урока на курсе Вадима Ксендзова
+
+Скачать презентацию - https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.pdf
+Полезные ссылки, использованные при подготовке презентации - https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.md
+
+Курс Вадима Ксендзова - https://ksendzov.com/
+YouTube-канал Вадима Ксендзова - https://www.youtube.com/channel/UC6hNNlCXv1ZgdGpziNf83RA
+
+Создание презентации - https://www.canva.com/
+Запись презентации - https://zoom.us/
+
+#ksendzov #vadimksendzov #ксендзов #вадимксендзов -->
 <!-- [Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][08_blb] | [Ссылки (GitHub)][08_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
