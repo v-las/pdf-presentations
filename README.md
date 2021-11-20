@@ -4,11 +4,11 @@
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 --- -->
-<!-- <!-- [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][08_blb] | [Ссылки (GitHub)][08_lnk]
+<!-- [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][08_blb] | [Ссылки (GitHub)][08_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
---- --> -->
+--- -->
 [Видео + Ссылки (YouTube)](https://youtu.be/LW_7Z8szjGA) | [Презентация (GitHub)][07_blb]
 ---
 <a href="https://youtu.be/LW_7Z8szjGA"><img src="https://img.youtube.com/vi/LW_7Z8szjGA/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
