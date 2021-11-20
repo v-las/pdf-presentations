@@ -4,7 +4,7 @@
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 --- -->
-<!-- [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][08_blb] | [Ссылки (GitHub)][08_lnk]
+<!-- [Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][08_blb] | [Ссылки (GitHub)][08_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
@@ -53,4 +53,5 @@
 [06_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_06.pdf>
 [07_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_07.pdf>
 [08_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.pdf>
+[08_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.md>
 
