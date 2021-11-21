@@ -7,6 +7,7 @@
 * Wikipedia - [Steve Blank](https://en.wikipedia.org/wiki/Steve_Blank)
 * Wikipedia - [Eric Ries](https://en.wikipedia.org/wiki/Eric_Ries)
 * Eric Ries - [The Lean Startup](https://knowledge.wharton.upenn.edu/article/eric-ries-on-the-lean-startup/) | Exception
+* Andrea Contigiani - [The Downside of Applying Lean Startup Principles](https://knowledge.wharton.upenn.edu/article/the-limitations-of-lean-startup-principles/)
 * Википедия - [Проверка концепции](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8)
 * Никита Артемчук - [MVP, MMP, MLP и другие аббревиатуры](https://blog.ithillel.ua/articles/mvp-mmp-mlp-i-drugie-abbreviatury-kotorye-pomogayut-vyzhit-v-produktovoy-it)
 
