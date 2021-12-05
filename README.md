@@ -20,11 +20,11 @@ YouTube-канал Вадима Ксендзова - https://www.youtube.com/cha
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 --- -->
-<!-- [Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][09_blb] | [Ссылки (GitHub)][09_lnk]
+[Видео (YouTube)](https://youtu.be/2wgN5t_GbN0) | [Презентация (GitHub)][09_blb] | [Ссылки (GitHub)][09_lnk]
 ---
-<a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
+<a href="https://youtu.be/2wgN5t_GbN0"><img src="https://img.youtube.com/vi/2wgN5t_GbN0/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
---- -->
+---
 [Видео (YouTube)](https://youtu.be/RWLbyB_eNrI) | [Презентация (GitHub)][08_blb] | [Ссылки (GitHub)][08_lnk]
 ---
 <a href="https://youtu.be/RWLbyB_eNrI"><img src="https://img.youtube.com/vi/RWLbyB_eNrI/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
