@@ -14,18 +14,3 @@
 ## MVP - Model-View-Presenter
 * Хабр - [Паттерны для новичков: MVC vs MVP vs MVVM](https://habr.com/ru/post/215605/)
 
-<!-- Минимально жизнеспособный продукт (MVP) | Презентация
-
-Мой GitHub - https://github.com/v-las
-Презентация "Стратегия MVP - Minimum Viable Product". Подготовлена Власом Мастыкашем, для открытого урока на курсе Вадима Ксендзова
-
-Скачать презентацию - https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.pdf
-Полезные ссылки, использованные при подготовке презентации - https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.md
-
-Курс Вадима Ксендзова - https://ksendzov.com/
-YouTube-канал Вадима Ксендзова - https://www.youtube.com/channel/UC6hNNlCXv1ZgdGpziNf83RA
-
-Создание презентации - https://www.canva.com/
-Запись презентации - https://zoom.us/
-
-#ksendzov #vadimksendzov #ксендзов #вадимксендзов -->
