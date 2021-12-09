@@ -1,3 +1,4 @@
+<!-- YouTube Title + Discription -->
 <!-- UI Kit - Компонентный дизайн, Дизайн-система, UI/UX | Презентация
 
 Мой GitHub - https://github.com/v-las
@@ -15,11 +16,15 @@ YouTube-канал Вадима Ксендзова - https://www.youtube.com/cha
 #ksendzov #vadimksendzov #ксендзов #вадимксендзов -->
 
 ### [✏️](https://github.com/v-las/pdf-presentations/edit/main/README.md) [Список](https://github.com/v-las/pdf-presentations/blob/main/README.md) презентаций
+
+<!-- Add Presentation Template -->
+
 <!-- [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb] | [Ссылки (GitHub)][~_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:100%;height:100%;"></a>
 
 --- -->
+
 [Видео (YouTube)](https://youtu.be/2wgN5t_GbN0) | [Презентация (GitHub)][09_blb] | [Ссылки (GitHub)][09_lnk]
 ---
 <a href="https://youtu.be/2wgN5t_GbN0"><img src="https://img.youtube.com/vi/2wgN5t_GbN0/maxresdefault.jpg" alt="Presentation" style="width:100%;height:100%;"></a>
