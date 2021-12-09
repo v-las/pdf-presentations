@@ -14,7 +14,7 @@ YouTube-канал Вадима Ксендзова - https://www.youtube.com/cha
 
 #ksendzov #vadimksendzov #ксендзов #вадимксендзов -->
 
-# [✏️](https://github.com/v-las/pdf-presentations/edit/main/README.md) [Список](https://github.com/v-las/pdf-presentations/blob/main/README.md) презентаций
+### [✏️](https://github.com/v-las/pdf-presentations/edit/main/README.md) [Список](https://github.com/v-las/pdf-presentations/blob/main/README.md) презентаций
 <!-- [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb] | [Ссылки (GitHub)][~_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:100%;height:100%;"></a>
